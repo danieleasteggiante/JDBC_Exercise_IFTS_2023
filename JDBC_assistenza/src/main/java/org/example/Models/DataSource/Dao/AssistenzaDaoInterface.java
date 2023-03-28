@@ -1,3 +1,5 @@
+//Interfaccia che ora ha solo una implementazione MysqL. #to do implementazione sqlite
+
 package org.example.Models.DataSource.Dao;
 
 import java.sql.Connection;
