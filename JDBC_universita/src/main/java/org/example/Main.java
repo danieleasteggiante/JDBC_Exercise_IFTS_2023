@@ -18,7 +18,7 @@ public class Main {
         String URL = "jdbc:mysql://localhost/ifts_universita";
         Properties info = new Properties( );
         info.put( "user", "daniele" );
-        info.put( "password", "dEminds17!" );
+        info.put( "password", "qwerty" );
         info.put( "autoReconnect", "true" );
         info.put( "useSSL", "false" );
         info.put( "serverTimezone", "Europe/Amsterdam" );
