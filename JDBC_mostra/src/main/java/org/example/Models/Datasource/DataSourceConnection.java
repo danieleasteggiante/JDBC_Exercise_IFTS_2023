@@ -14,7 +14,7 @@ public class DataSourceConnection {
         String URL = "jdbc:mysql://localhost/ifts_2023_museo_es3";
         Properties info = new Properties( );
         info.put( "user", "daniele" );
-        info.put( "password", "dEminds17!" );
+        info.put( "password", "qwerty" );
         info.put( "autoReconnect", "true" );
         info.put( "useSSL", "false" );
         info.put( "serverTimezone", "Europe/Amsterdam" );
